@@ -124,9 +124,9 @@ Usage
                                         or
                                     ssl.rsa.sign/out
                         4.  call:
-                                ssl.ecdsa.sign/03.srv.sign.sh
-                                    or
-                                ssl.rsa.sign/03.srv.sign.sh
+                                    ssl.ecdsa.sign/03.srv.sign.sh
+                                        or
+                                    ssl.rsa.sign/03.srv.sign.sh
                         5.  copy:
                                     ssl.ecdsa.sign/out/srv.sl.cert
                                         or
